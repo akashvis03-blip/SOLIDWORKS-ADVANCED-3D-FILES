@@ -5,12 +5,6 @@
 
 DWG file: Part4.SLDPRT
 
-# Part7
-
-![Preview](Part7.png)
-
-DWG file: Part7.SLDPRT
-
 
 # Part42
 
@@ -64,4 +58,11 @@ DWG file: Part97.SLDPRT
 ![Preview](Part102.png)
 
 DWG file: Part102.SLDPRT
+
+# Part7
+
+![Preview](Part7.png)
+
+DWG file: Part7.SLDPRT
+
 
