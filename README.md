@@ -27,6 +27,13 @@ DWG file: Part42.SLDPRT
 DWG file: Part67.SLDPRT
 
 
+# Part98
+
+![Preview](Part98.png)
+
+DWG file: Part98.SLDPRT
+
+
 # Part77
 
 ![Preview](Part77.png)
